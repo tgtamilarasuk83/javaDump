@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;Arraydemo.JaggedArrayruntime.main(...).scanf&apos; in &apos;Arraydemo.JaggedArrayruntime.main(...)&apos; to field&#x0D;&#x0A;- Original project: &apos;ClassDemo&apos;&#x0D;&#x0A;- Original element: &apos;Arraydemo.JaggedArrayruntime.main(...).scanf&apos;&#x0D;&#x0A;- Field name: &apos;scanf&apos;&#x0D;&#x0A;- Initialize field in method&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;scanf&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;Arraydemo{JaggedArrayruntime.java" name="scanf" selection="144 30" stamp="1771235364513" static="true" version="1.0" visibility="2"/>
+</session>

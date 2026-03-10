@@ -1,0 +1,16 @@
+package classes;
+
+import java.util.Scanner;
+
+public class Agecalculation {
+    public static void main(String[] args) {
+        Scanner scanf = new Scanner(System.in);  // reads piped input
+        System.out.println("Enter the name:");
+        String name = scanf.nextLine();
+        System.out.println("Enter the age:");
+        int age = scanf.nextInt();
+        
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+    }
+}

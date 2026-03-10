@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;HandonFunctionsEasy&apos; to &apos;Funtions/src/demoFuntions&apos;&#x0D;&#x0A;- Original project: &apos;Expleo_Project&apos;&#x0D;&#x0A;- Destination element: &apos;Funtions/src/demoFuntions&apos;&#x0D;&#x0A;- Original element: &apos;Expleo_Project/src/HandonFunctionsEasy&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=Funtions/src&lt;demoFuntions" element1="/src&lt;HandonFunctionsEasy" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1771309275480" version="1.0"/>
+</session>
