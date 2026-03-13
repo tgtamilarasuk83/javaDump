@@ -1,7 +1,5 @@
 package handsOn1;
 
-import java.util.*;
-
 /*
  * Author : Tamilarasu K
  * Program: Alphabets
