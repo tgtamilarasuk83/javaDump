@@ -6,4 +6,6 @@
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.resources.compiler"/>
     <fullyQualifiedTypeName name="mutablestrings.FileInputStream"/>
+    <fullyQualifiedTypeName name="Generics.Demo1"/>
+    <fullyQualifiedTypeName name="sun.security.mscapi.CKeyStore.ROOTLocalMachine"/>
 </qualifiedTypeNameHistroy>
